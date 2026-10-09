@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Coruscant Garden: Animated Opera GX Browser Theme"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Ray
+    given-names: Samira
+    orcid: "https://orcid.org/0009-0006-6885-8400"
+abstract: "Animated Opera GX browser theme published to the GX Store: a Star Wars-inspired Coruscant overgrown with flowers, with a seamless ffmpeg-looped wallpaper, ambient music, and a hand-written mod manifest."
+repository-code: "https://github.com/Rei0322/Coruscant-Garden"
+url: "https://store.gx.me/mods/ndwsfy/coruscant-garden/"
+license: MIT
+keywords:
+  - opera-gx
+  - browser-theme
+  - ffmpeg
